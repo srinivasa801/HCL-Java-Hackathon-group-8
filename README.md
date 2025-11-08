@@ -31,6 +31,15 @@ Services (each under its own folder)
 - `notification/README.md` — Notification Service
 - `audit/README.md` — Audit Service
 
+
+Service endpoints
+
+Base URL: /api/v1/wallets
+Base URL: /api/v1/customers
+Base URL: /api/v1/merchants
+Base URL: /api/v1/payments
+Base URL: /api/v1/notifications
+
 Docker notes
 
 - Each service should include a `Dockerfile` for container builds. Example:
