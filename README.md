@@ -32,13 +32,14 @@ Services (each under its own folder)
 - `audit/README.md` — Audit Service
 
 
-Service endpoints
+- Service endpoints
 
-Base URL: /api/v1/wallets
-Base URL: /api/v1/customers
-Base URL: /api/v1/merchants
-Base URL: /api/v1/payments
-Base URL: /api/v1/notifications
+- `Base URL` — /api/v1/wallets
+- `Base URL` — /api/v1/payments
+- `Base URL` — /api/v1/merchants
+- `Base URL` — /api/v1/notifications
+- `Base URL` — /api/v1/customers
+
 
 Docker notes
 
